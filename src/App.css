@@ -1,0 +1,16 @@
+.corpo{
+  display: flex;
+  justify-content: space-around;
+}
+
+.exercicio{
+
+  height: 600px;
+  width: 450px;
+  border: solid red 1px;
+}
+
+.exercicio h1{
+  text-align: center;
+}
+
